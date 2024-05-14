@@ -1,5 +1,9 @@
 # Smart Parking System
 
+![1](https://github.com/dmh1g19/smart-parking/assets/97964514/8dbb41a6-f915-4cb4-8809-cce824ea17b5)
+![2](https://github.com/dmh1g19/smart-parking/assets/97964514/a107b1f7-ea4a-4d54-98c1-7b98e11bf31b)
+![3](https://github.com/dmh1g19/smart-parking/assets/97964514/0b3051aa-57ca-4619-83a2-7f21428e92f1)
+
 ## Description
 
 The Smart Parking System is an IoT solution designed to improve parking efficiency in urban areas using LoRaWAN technology. This system uses various sensors and devices to provide real-time data on parking space availability, helping reduce congestion and environmental impact due to unnecessary driving.
